@@ -1,0 +1,74 @@
+/* Custom styling for Calendar App */
+
+/* Main app title */
+h1 {
+    font-weight: 700 !important;
+    margin-bottom: 1rem !important;
+}
+
+/* Card styles */
+.event-card {
+    border-left: 4px solid;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 0.75rem;
+    transition: transform 0.2s ease-in-out;
+}
+
+.event-card:hover {
+    transform: translateX(5px);
+}
+
+/* Button styling */
+.stButton > button {
+    border-radius: 20px;
+    padding: 2px 15px;
+    font-weight: 500;
+}
+
+/* Improve input fields */
+.stTextInput input, .stTextArea textarea {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Metric card enhancements */
+.stMetric {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 50px;
+    white-space: pre-wrap;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    color: #000000;
+    border: none;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: var(--primary-color, #4285F4) !important;
+    color: white !important;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+    .stTabs [data-baseweb="tab"] {
+        background-color: #1e1e1e;
+        color: #ffffff;
+    }
+    
+    .stMetric {
+        background-color: #1e1e1e;
+    }
+}
