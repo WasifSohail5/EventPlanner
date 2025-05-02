@@ -45,12 +45,12 @@ Event Planner is a powerful, intuitive application that brings the full potentia
 
 <table>
   <tr>
-    <td><img src="assets/screenshots/dashboard.png" alt="Dashboard View" width="400"/></td>
-    <td><img src="assets/screenshots/event_creator.png" alt="Event Creation" width="400"/></td>
+    <td><img src="screenshots/dashboard.png" alt="Dashboard View" width="400"/></td>
+    <td><img src="screenshots/event_creator.png" alt="Event Creation" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshots/event_viewer.png" alt="Event Viewer" width="400"/></td>
-    <td><img src="assets/screenshots/settings.png" alt="Settings Page" width="400"/></td>
+    <td><img src="screenshots/event_viewer.png" alt="Event Viewer" width="400"/></td>
+    <td><img src="screenshots/settings.png" alt="Settings Page" width="400"/></td>
   </tr>
 </table>
 
