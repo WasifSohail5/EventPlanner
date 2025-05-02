@@ -7,3 +7,6 @@ token.pkl
 __pycache__/
 *.pyc
 .env
+auth/token.json
+auth/token.pkl
+auth/credentials.json
