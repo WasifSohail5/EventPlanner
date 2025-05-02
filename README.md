@@ -1,8 +1,6 @@
 # 📅 Event Planner
 
 <p align="center">
-  <img src="assets/calendar_logo.png" alt="Event Planner Logo" width="200"/>
-  <br>
   <em>A feature-rich Google Calendar management application built with Streamlit</em>
 </p>
 
@@ -132,7 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with [Streamlit](https://streamlit.io/)
 - Powered by [Google Calendar API](https://developers.google.com/calendar)
-- Created by [Wasif Sohail](https://github.com/Wasif-Sohail55) (May 2025)
+- Created by [Wasif Sohail](https://github.com/Wasif-Sohail5) (May 2025)
 
 ---
 
